@@ -7,7 +7,7 @@ Ada Sebuah button Untuk Melihat Coin Crypto Yang Sedang trend .
 
 Untuk menjalakannya Kita Butuh
 - Node Js
-- Terminal / Termux ( Saya Buat ini Di Android )
+- Terminal / Termux ( Saya Buat Di Android )
 
 Ketik Perintah ini
 - npm init -y 
@@ -26,3 +26,5 @@ seperti
 - Dan Masih Banyak Lagi ...
 
 # Lihat Demo => https://t.me/bogemmonbot
+
+Salam Bogem :'%
